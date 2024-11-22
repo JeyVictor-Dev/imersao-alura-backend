@@ -5,5 +5,5 @@ app.listen(3000, () => {
     console.log("Servidor escutando...")
 });
 app.get("/api", (req, res) => {
-    res.status(200).send("Boas vindas à imersão!")
+    res.status(200).send("Posso comer seu cu?")
 });
